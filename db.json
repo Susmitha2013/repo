@@ -1,0 +1,21 @@
+{
+   "english":
+    {
+       "title":"Simple. Secure.",
+       "secondInformation":"Reliable messaging.",
+       "rightNav":["WHATSAPP WEB ","FEATURES ","DOWNLOAD ","SECURITY ","HELP CENTER "]
+       
+    },
+    "spanish":
+    {
+       "title":"Simple. Secure - sp.",
+       "secondInformation":"Reliable messaging - sp.",
+       "rightNav":["WHATSAPP WEB - sp","FEATURES - sp","DOWNLOAD - sp","SECURITY - sp","HELP CENTER - sp"]
+    },
+    "french":
+    {
+       "title":"Simple. Secure - fr.",
+       "secondInformation":"Reliable messaging - fr.",
+       "rightNav":["WHATSAPP WEB - fr","FEATURES - fr","DOWNLOAD - fr","SECURITY - fr","HELP CENTER - fr"]
+    }
+ }
